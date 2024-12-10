@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: tardis-awards-questionary-2024
+    repo: https://github.com/Sergio-Luis20/tardis-awards-questionary-2024
+    branch: main
+    dockerfilePath: ./Dockerfile
+    plan: free
+    runtime: docker
+    autoDeploy: true
