@@ -105,6 +105,7 @@
 	</dependencies>
 
 	<build>
+		<finalName>tardis-awards-questionary</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
