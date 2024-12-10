@@ -8,6 +8,9 @@ target/
 private.key
 public.key
 simple-questions.csv
+private_base64
+public_base64
+simple_questions_base64
 database.db
 
 ### STS ###
